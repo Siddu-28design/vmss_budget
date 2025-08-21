@@ -2,7 +2,7 @@ data "azurerm_subscription" "current" {}
 
 
 data "azurerm_resource_group" "vmss_rg" {
-  name = "Siddu-VMSS-Demo"
+  name = "Siddu-VMSS"
 }
 
 
